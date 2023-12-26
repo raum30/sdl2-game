@@ -1,3 +1,0 @@
-/home/raum/home/SDL2-tutorials/build/CMakeFiles/test-game.dir
-/home/raum/home/SDL2-tutorials/build/CMakeFiles/edit_cache.dir
-/home/raum/home/SDL2-tutorials/build/CMakeFiles/rebuild_cache.dir
