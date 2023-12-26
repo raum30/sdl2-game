@@ -33,7 +33,7 @@ int main(void)
     // drawing finished, "present" or show to the screen what has been drawn
     SDL_RenderPresent(renderer);
 
-    // wait a few seconds before quitting
+    // wait for quit
     bool isquit = false;
     SDL_Event event;
     while (!isquit)
@@ -47,7 +47,6 @@ int main(void)
         }
     }
 
-    // quit SDL
     SDL_DestroyWindow(window);
     SDL_DestroyRenderer(renderer);
     SDL_Quit();
