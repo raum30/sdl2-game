@@ -26,12 +26,13 @@ brew install sdl2
 ```
 ---
 ### Compiling 
+Make the executable
 ```
 make game 
 ```
 
 Run the executable 
 ```
-cd build && ./play
+./play
 ```
 
