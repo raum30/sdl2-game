@@ -1,7 +1,7 @@
 # SDL2 Game in C
-Starting from episode 6: [C Game Development](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt)
 
-- other videos: [Thomas Lively](https://www.youtube.com/watch?v=yFLa3ln16w0&ab_channel=CS50)
+- [Thomas Lively](https://www.youtube.com/watch?v=yFLa3ln16w0&ab_channel=CS50)
+- [Dylan Falconer](https://www.youtube.com/watch?v=WficzyoTSsg&ab_channel=DylanFalconer)
 
 ## Building 
 
