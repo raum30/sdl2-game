@@ -17,13 +17,13 @@ Starting from episode 6: [C Game Development](https://www.youtube.com/playlist?l
 sudo apt-get install libsdl2-dev libsdl2-gfx-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-net-dev libsdl2-mixer-dev
 ```
 
-**WSL**:
-Follow this [tutorial](https://www.youtube.com/watch?v=sC3M6C8IpoE&ab_channel=CaptainFisch)
-
 **MacOS**:
 ```
 brew install sdl2
 ```
+
+On **WSL** please follow this [tutorial](https://www.youtube.com/watch?v=sC3M6C8IpoE&ab_channel=CaptainFisch) by *CaptainFisch*
+
 ---
 ### Compiling 
 Make the executable
